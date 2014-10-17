@@ -1,0 +1,11 @@
+Computer Architecture notes 29/09/2014:
+
+Two's complement:
+
+is used for easy arithmetic being able to convert positive to negative. 
+You convert the positive to negative by changing the most significant bitn (MSB) to a 1 this gets read as negative then. All of the other bits are then positive so are added up to make the negative number. 
+If you want the number to be even then you change the least significant bit (LSB) to a 1.
+
+Hamming Weight is the number of ones in a binary number. This is also called the 'population count', 'pop count' or 'sideways sum'.
+
+
